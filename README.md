@@ -19,6 +19,7 @@ A plant profile and calendar app for plant owners. The web application helps pla
 
 * Bootstrap 3.3.7
 * jQuery 3.3.1
+* JavaScript Date Objects
 
 ## Design Decisions And Issues
 * page for user to create a new plant profile
@@ -29,20 +30,11 @@ A plant profile and calendar app for plant owners. The web application helps pla
 
 * Each all the plant profile tasks can be seen in the "My Schedule" link at  the top of the page
 <img width="300" height="300" alt="screen shot 2018-06-21 at 2 53 15 pm" src="https://user-images.githubusercontent.com/39496805/41747551-34032bda-7563-11e8-8b67-9a5100d8fa9f.png">
-
-
-
-## Support and contact details
-
-If you have find issues or have questions, ideas to improve the app, or concerns.  Please feel free to email us at;
-
- Nikki Boyd: boyd.nikki@icloud.com
- Nick Brown: nickrossbrown@gmail.com
- Renee Sarley: Reneesarkey@gmail.com
- Rita Bennett-Chew: ritabs@gmail.com
  
 
 ## Links
+[Live Site on gh-pages](https://ritabc.github.io/plant-care-app)
+[Rita's GitHub Repository](https://github.com/ritabc/plant-care-app/)
 
 
 ## License
