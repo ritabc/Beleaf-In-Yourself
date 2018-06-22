@@ -34,6 +34,7 @@ A plant profile and calendar app for plant owners. The web application helps pla
 
 ## Links
 [Live Site on gh-pages](https://ritabc.github.io/plant-care-app)
+
 [Rita's GitHub Repository](https://github.com/ritabc/plant-care-app/)
 
 
