@@ -7,6 +7,18 @@
 ## Description
 A plant profile and calendar app for plant owners. The web application helps plant owners with visualization and scheduling for their plant care. A user can add customizable plant profiles that records plant type, nickname, amount of sunlight, hardiness. Each plant profile created also records the frequency of the plant's future watering, pruning, and fertilizing needs. These needs are saved and presented as tasks in a scheduled calendar. 
 
+## Links
+[Live Site on gh-pages](https://ritabc.github.io/plant-care-app)
+
+## Features
+* Users can create a new plant profile
+<img width="300" height="300" alt="screen shot 2018-06-21 at 2 43 09 pm" src="https://user-images.githubusercontent.com/39496805/41747154-d0684d68-7561-11e8-8e43-ce332be0be73.png">
+
+* Each plant profile is saved and can be seen in the "My Plant" link at the top of the page
+<img width="300" src="https://user-images.githubusercontent.com/11031915/41785280-f4eb6e82-75f6-11e8-8f1c-e7cd61356489.png">
+
+* Each plant's tasks can be seen in the "My Schedule" link at the top of the page
+<img width="300" height="300" alt="screen shot 2018-06-21 at 2 53 15 pm" src="https://user-images.githubusercontent.com/39496805/41747551-34032bda-7563-11e8-8b67-9a5100d8fa9f.png">
 
 ## Setup/Contribution Requirements
 
@@ -21,28 +33,8 @@ A plant profile and calendar app for plant owners. The web application helps pla
 * jQuery 3.3.1
 * JavaScript Date Objects
 
-## Design Decisions And Issues
-* page for user to create a new plant profile
-<img width="300" height="300" alt="screen shot 2018-06-21 at 2 43 09 pm" src="https://user-images.githubusercontent.com/39496805/41747154-d0684d68-7561-11e8-8e43-ce332be0be73.png">
-
-* Each plant profile is saved and can be seen in the "My Plant" link at  the top of the page
-![screen shot 2018-06-22 at 8 29 31 am](https://user-images.githubusercontent.com/11031915/41785280-f4eb6e82-75f6-11e8-8f1c-e7cd61356489.png)
-
-* Each all the plant profile tasks can be seen in the "My Schedule" link at  the top of the page
-<img width="300" height="300" alt="screen shot 2018-06-21 at 2 53 15 pm" src="https://user-images.githubusercontent.com/39496805/41747551-34032bda-7563-11e8-8b67-9a5100d8fa9f.png">
- 
-
-## Links
-[Live Site on gh-pages](https://ritabc.github.io/plant-care-app)
-
-[Rita's GitHub Repository](https://github.com/ritabc/plant-care-app/)
-
-
 ## License
 
 This software is licensed under the MIT license.
 
 Copyright (c) 2018 **Team Plant Care**
-
-<img align="left" width="100" height="100" alt="screen shot 2018-06-21 at 2 43 09 pm" src="https://user-images.githubusercontent.com/39496805/41747154-d0684d68-7561-11e8-8e43-ce332be0be73.png">
-
