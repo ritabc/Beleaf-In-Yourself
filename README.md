@@ -8,7 +8,7 @@
 A plant profile and calendar app for plant owners. The web application helps plant owners with visualization and scheduling for their plant care. A user can add customizable plant profiles that records plant type, nickname, amount of sunlight, hardiness. Each plant profile created also records the frequency of the plant's future watering, pruning, and fertilizing needs. These needs are saved and presented as tasks in a scheduled calendar. 
 
 ## Links
-[Live Site on gh-pages](https://ritabc.github.io/plant-care-app)
+[Live Site on gh-pages](https://ritabc.github.io/Beleaf-In-Yourself/)
 
 ## Features
 * Users can create a new plant profile
